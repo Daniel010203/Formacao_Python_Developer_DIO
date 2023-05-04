@@ -14,6 +14,7 @@ Curso: [Formação Python Developer](https://web.dio.me/track/formacao-python-de
 
 ---
 
+## **Módulo 01 - Fundamentos de Python**
 ## **Curso 01 - Ambiente de Desenvolvimento e Primeiros Passos com Python**
 
 Nivel: Básico - Duração 1h

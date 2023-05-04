@@ -14,6 +14,7 @@ Curso: [Formação Python Developer](https://web.dio.me/track/formacao-python-de
 
 ---
 
+## **Módulo 01 - Fundamentos de Python**
 ## **Curso 03 - Tipos de Operadores com Python**
 
 Nivel: Básico - Duração 2h
