@@ -13,7 +13,7 @@ Carga horária: 64h
 Curso: [Formação Python Developer](https://web.dio.me/track/formacao-python-developer)
 
 ---
-## **Módulo 03 - Programação Orientada a Objetos com Python**
+## **Módulo 04 - Integração com Python e Frameworks**
 ## **Curso 02 - Integrando Python com MongoDB Utilizando Pymongo**
 
 Nivel: Avançado - Duração: 2h
