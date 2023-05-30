@@ -1,0 +1,1 @@
+Arquivo.txt usado durante a aula 14, para ser ocultado pelo código feito em aula 14_ocultar.py.
