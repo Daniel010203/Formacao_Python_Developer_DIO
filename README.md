@@ -13,7 +13,6 @@ Carga horária: 64h
 Bootcamp: [Formação Python Developer](https://web.dio.me/track/formacao-python-developer)
 
 ---
-<!-- ## Certificado: [Ariel Riello]()
->
-><img src="" width="400" height="250">
--->
+## Certificado: [Ariel Riello](https://www.dio.me/certificate/BACD5E5F/share)
+
+<img src="https://hermes.digitalinnovation.one/certificates/cover/BACD5E5F.jpg" width="400" height="250">
