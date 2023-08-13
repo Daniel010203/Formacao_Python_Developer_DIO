@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "08-consumindo-api-twitter"
+version = "0.1.0"
+description = "Projeto DIO"
+authors = ["Ariel Riello"]
+readme = "README.md"
+packages = [{include = "08_consumindo_api_twitter"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tweepy = "^4.14.0"
+pymongo = "^4.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
